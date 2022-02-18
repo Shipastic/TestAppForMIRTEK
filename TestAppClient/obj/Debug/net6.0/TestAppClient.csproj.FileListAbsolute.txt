@@ -1,0 +1,15 @@
+C:\Users\denku\source\repos\TestAppServer\TestAppClient\bin\Debug\net6.0\TestAppClient.exe
+C:\Users\denku\source\repos\TestAppServer\TestAppClient\bin\Debug\net6.0\TestAppClient.deps.json
+C:\Users\denku\source\repos\TestAppServer\TestAppClient\bin\Debug\net6.0\TestAppClient.runtimeconfig.json
+C:\Users\denku\source\repos\TestAppServer\TestAppClient\bin\Debug\net6.0\TestAppClient.dll
+C:\Users\denku\source\repos\TestAppServer\TestAppClient\bin\Debug\net6.0\TestAppClient.pdb
+C:\Users\denku\source\repos\TestAppServer\TestAppClient\obj\Debug\net6.0\TestAppClient.csproj.AssemblyReference.cache
+C:\Users\denku\source\repos\TestAppServer\TestAppClient\obj\Debug\net6.0\TestAppClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denku\source\repos\TestAppServer\TestAppClient\obj\Debug\net6.0\TestAppClient.AssemblyInfoInputs.cache
+C:\Users\denku\source\repos\TestAppServer\TestAppClient\obj\Debug\net6.0\TestAppClient.AssemblyInfo.cs
+C:\Users\denku\source\repos\TestAppServer\TestAppClient\obj\Debug\net6.0\TestAppClient.csproj.CoreCompileInputs.cache
+C:\Users\denku\source\repos\TestAppServer\TestAppClient\obj\Debug\net6.0\TestAppClient.dll
+C:\Users\denku\source\repos\TestAppServer\TestAppClient\obj\Debug\net6.0\refint\TestAppClient.dll
+C:\Users\denku\source\repos\TestAppServer\TestAppClient\obj\Debug\net6.0\TestAppClient.pdb
+C:\Users\denku\source\repos\TestAppServer\TestAppClient\obj\Debug\net6.0\TestAppClient.genruntimeconfig.cache
+C:\Users\denku\source\repos\TestAppServer\TestAppClient\obj\Debug\net6.0\ref\TestAppClient.dll

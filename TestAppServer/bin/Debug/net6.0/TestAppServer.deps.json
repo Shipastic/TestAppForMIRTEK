@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TestAppServer/1.0.0": {
+        "dependencies": {
+          "TestAppClient": "1.0.0"
+        },
+        "runtime": {
+          "TestAppServer.dll": {}
+        }
+      },
+      "TestAppClient/1.0.0": {
+        "runtime": {
+          "TestAppClient.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestAppServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestAppClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
